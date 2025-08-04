@@ -1,0 +1,14 @@
+C:\Users\Sergey\Desktop\БММ\Distribution_script\Таблица с тестами.xlsx
+C:\Users\Sergey\Desktop\БММ\Distribution_script\Соотношение продуктов и генов.xlsx
+C:\Users\Sergey\Desktop\БММ\Distribution_script\Панель для комбинации генов v2.xlsx
+C:\Users\Sergey\Desktop\БММ\Distribution_script\Необходимые гены для метатестов.xlsx
+6
+6
+1:30
+y
+03-02-2025 11:53:25
+y
+0
+y
+y
+C:\Users\Sergey\Desktop\БММ\Distribution_script\output.txt
